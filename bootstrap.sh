@@ -13,3 +13,6 @@ apt-get install -y mongodb-org
 # https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 curl --silent --location https://deb.nodesource.com/setup_4.x | sudo bash -
 apt-get install --yes nodejs
+
+# other dev tools
+npm -g install grunt
