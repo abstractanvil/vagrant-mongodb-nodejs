@@ -17,3 +17,4 @@ apt-get install --yes nodejs
 # other dev tools
 npm -g install grunt
 npm -g install bower
+apt-get install -y git-core
